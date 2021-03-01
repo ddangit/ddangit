@@ -1,17 +1,3 @@
-## everyday9
-
-오늘 기분은 어때요? 하루하루 나를 알아가는 나만의 감정 힐링 에세이를 남겨보세요.
-
-에브리데이 나인은 9가지 이모지를 통해 나의 감정을 기록하고 나를 알아가는 심플한 일기장과 같은 앱입니다. 기록된 나의 감정의 곡선을 보면서 스스로를 더 잘 알아갈 수 있기를 바랄게요.  
-
-더 쉽게 작성이 가능하도록 끈임없이 개선을 해나갈 예정입니다.
-
-<img src="images/everyday9_iOS_6.5inch_KR_1.png" width="160"/>
-<img src="images/everyday9_iOS_6.5inch_KR_2.png" width="160"/>
-<img src="images/everyday9_iOS_6.5inch_KR_3.png" width="160"/>
-
-<img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg"/>
-
 
 ## 미세멍
 
